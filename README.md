@@ -1,0 +1,1 @@
+The Wumpus World is a grid-based AI game where an agent navigates a cave to find gold while avoiding the Wumpus (a monster) and deadly pits. The agent uses percepts like breeze (near pits) and stench (near Wumpus) to make decisions. It demonstrates basic AI reasoning and decision-making.
